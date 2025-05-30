@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Davia specific (optional)
+.davia/
